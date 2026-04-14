@@ -15,12 +15,14 @@ I am an aspiring cybersecurity professional with an interest in both Security Op
 ### 🛡️ GRC Risk Assessment
 Conducted a cybersecurity risk assessment for a small business environment, identifying key threats, evaluating risks, and recommending security controls.
 
-👉 [View Project](grc-risk-assessment/risk-assessment.md)
+[👉 View Project](grc-risk-assessment/risk-assessment.md)
+
+---
 
 ### 🔐 Password Policy
 Developed a password policy for a small organization, defining authentication requirements and security controls.
 
-👉 [View Project](password-policy/password-policy.md)
+[👉 View Project](password-policy/password-policy.md)
 ---
 
 ## 🎯 Goal
