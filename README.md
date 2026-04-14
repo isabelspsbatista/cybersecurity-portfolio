@@ -15,7 +15,7 @@ I am an aspiring cybersecurity professional with an interest in both Security Op
 ### 🛡️ GRC Risk Assessment
 Conducted a cybersecurity risk assessment for a small business environment, identifying key threats, evaluating risks, and recommending security controls.
 
-👉 *(Project link coming soon)*
+👉 grc-risk-assessment/risk-assessment.md
 
 ### 🔍 SOC Log Analysis (Coming Soon)
 Analyzing authentication logs to detect suspicious activity such as brute-force attacks and unauthorized access.
