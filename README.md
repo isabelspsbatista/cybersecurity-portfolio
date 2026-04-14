@@ -17,13 +17,13 @@ Conducted a cybersecurity risk assessment for a small business environment, iden
 
 👉 [View Project](grc-risk-assessment/risk-assessment.md)
 
-### 🔍 SOC Log Analysis (Coming Soon)
-Analyzing authentication logs to detect suspicious activity such as brute-force attacks and unauthorized access.
+### 🔍(Coming Soon)
+
 
 ---
 
 ## 🎯 Goal
-To develop practical cybersecurity skills and transition into a role as a SOC Analyst or GRC Analyst.
+To develop practical cybersecurity skills and transition into a role as a cybersecurity professional, with a focus on Governance, Risk, and Compliance (GRC).
 
 ## 📫 Contact
 - LinkedIn:(https://www.linkedin.com/in/isabel-sousa-batista-0546031b4/)
