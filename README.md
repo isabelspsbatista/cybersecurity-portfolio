@@ -17,9 +17,10 @@ Conducted a cybersecurity risk assessment for a small business environment, iden
 
 👉 [View Project](grc-risk-assessment/risk-assessment.md)
 
-### 🔍(Coming Soon)
+### 🔐 Password Policy
+Developed a password policy for a small organization, defining authentication requirements and security controls.
 
-
+👉 [View Project](password-policy/password-policy.md)
 ---
 
 ## 🎯 Goal
