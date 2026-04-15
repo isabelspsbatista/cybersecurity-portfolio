@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## 👤 About Me
-I am an aspiring cybersecurity professional with an interest in both Security Operations (SOC) and Governance, Risk, and Compliance (GRC). I am building hands-on projects to develop practical skills in risk analysis, threat detection, and security best practices.
+Cybersecurity professional with a focus on Governance, Risk, and Compliance (GRC). I build practical projects in risk assessment, security policies, and control implementation to develop real-world skills in managing and reducing organizational risk.
 
 ## 🧠 Skills
 - Risk assessment and analysis  
