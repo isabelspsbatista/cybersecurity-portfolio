@@ -37,6 +37,11 @@ Designed a structured incident response plan including classification, response 
 
  [👉View Project](incident-response/incident-response.md)
 
+ ### 🏦 Internal Audit (Financial Institution)
+Conducted an internal audit assessing cybersecurity controls in a banking environment, including findings, risk rating, and framework-aligned recommendations.
+
+👉 [View Project](internal-audit-financial/internal-audit.md)
+
 
 ---
 
