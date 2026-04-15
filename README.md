@@ -27,6 +27,11 @@ Developed a cybersecurity risk register including risk evaluation, mitigation st
 
 [👉 View Project](risk-register/risk-register.md)
 
+### 📋 Mini Compliance Program
+Developed a compliance assessment aligned with ISO 27001 and NIST, including control mapping, gap analysis, and risk-based recommendations.
+
+👉 [View Project](compliance-program/compliance-program.md)
+
 
 ---
 
