@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 ## 👤 About Me
-Cybersecurity professional with a focus on Governance, Risk, and Compliance (GRC). I build practical projects in risk assessment, security policies, and control implementation to develop real-world skills in managing and reducing organizational risk.
+Cybersecurity professional with a focus on Governance, Risk, and Compliance (GRC). This portfolio showcases hands-on projects covering risk assessments, policy development, compliance frameworks (ISO 27001, NIST, DORA), incident response, and internal audit processes. Each project is designed to simulate real-world scenarios and demonstrate practical cybersecurity and risk management skills.
 
 ## 🧠 Skills
 - Risk assessment and analysis  
@@ -13,32 +13,37 @@ Cybersecurity professional with a focus on Governance, Risk, and Compliance (GRC
 ## 📂 Projects
 
 ### 🛡️ GRC Risk Assessment
-Conducted a cybersecurity risk assessment for a small business environment, identifying key threats, evaluating risks, and recommending security controls.
+Conducted a cybersecurity risk assessment for a small organization, identifying key threats, evaluating risk levels, and recommending controls to reduce exposure and improve overall security posture.
 
 [👉 View Project](grc-risk-assessment/risk-assessment.md)
 
 ### 🔐 Password Policy
-Developed a password policy for a small organization, defining authentication requirements and security controls.
+Developed a password policy aligned with industry best practices to strengthen authentication controls, reduce the risk of unauthorized access, and support secure user account management.
+
 
 [👉 View Project](password-policy/password-policy.md)
 
 ### 📊 Risk Register
-Developed a cybersecurity risk register including risk evaluation, mitigation strategies, and a visual heat map.
+Created a structured risk register to track, prioritize, and manage cybersecurity risks, including risk scoring, mitigation strategies, ownership assignment, and visual risk representation through a heat map.
+
 
 [👉 View Project](risk-register/risk-register.md)
 
 ### 📋 Mini Compliance Program
-Developed a compliance assessment aligned with ISO 27001 and NIST, including control mapping, gap analysis, and risk-based recommendations.
+Designed a compliance program aligned with ISO/IEC 27001 and the NIST Cybersecurity Framework, including control mapping, gap analysis, and risk-based recommendations to improve regulatory alignment and security maturity.
 
+ 
  [👉View Project](compliance-program/compliance-program.md)
 
 ### 🚨 Incident Response Plan
-Designed a structured incident response plan including classification, response lifecycle, escalation, and communication strategy.
+Developed a structured incident response plan aligned with ISO/IEC 27035 and NIST guidelines, defining incident classification, response lifecycle, roles, escalation paths, and communication procedures to ensure effective incident handling.
+
 
  [👉View Project](incident-response/incident-response.md)
 
  ### 🏦 Internal Audit (Financial Institution)
-Conducted an internal audit assessing cybersecurity controls in a banking environment, including findings, risk rating, and framework-aligned recommendations.
+Conducted an internal audit of cybersecurity controls in a financial environment, identifying control deficiencies, assessing risk exposure, and providing framework-aligned recommendations (DORA, ISO 27001, NIST CSF) to improve compliance and operational resilience.
+
 
 👉 [View Project](internal-audit-financial/internal-audit.md)
 
