@@ -24,6 +24,12 @@ Developed a password policy for a small organization, defining authentication re
 
 [👉 View Project](password-policy/password-policy.md)
 
+### 📊 Risk Register
+Developed a cybersecurity risk register including risk evaluation, mitigation strategies, and a visual heat map.
+
+👉 [View Project](risk-register/risk-register.md)
+
+
 ---
 
 ## 🎯 Goal
