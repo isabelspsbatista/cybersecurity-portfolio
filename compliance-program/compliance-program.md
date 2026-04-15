@@ -1,7 +1,7 @@
 # Mini Compliance Program (ISO 27001 / NIST)
 
 ## 📌 Overview
-This project presents a mini compliance program for a SaaS organization, aligned with ISO/IEC 27001 and the NIST Cybersecurity Framework. It evaluates security controls, identifies gaps, and provides structured recommendations to improve the organization’s security posture.
+This project presents a simplified compliance program for a SaaS organization, aligned with ISO/IEC 27001 and the NIST Cybersecurity Framework. It evaluates security controls, identifies gaps, and provides structured recommendations to improve the organization’s security posture.
 
 ## 🏢 Business Scenario
 The organization is a small SaaS company relying on cloud infrastructure, web applications, and remote access to deliver services and manage customer data.
