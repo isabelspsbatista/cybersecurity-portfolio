@@ -48,6 +48,12 @@ Conducted an internal audit of cybersecurity controls in a financial environment
 👉 [View Project](internal-audit-financial/internal-audit.md)
 
 
+## 📊 Log Analysis (SOC Basics)  
+Analyzed authentication logs to identify suspicious activity, detect potential brute-force attacks, and assess indicators of compromise.
+
+👉 [View Project](log-analysis/log-analysis.md)
+
+
 ---
 
 ## 🎯 Goal
